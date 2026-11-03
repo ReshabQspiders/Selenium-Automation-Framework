@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-29T14:22:31 IST" name="Default suite" finished-at="2026-10-29T14:22:33 IST" duration-ms="1797">
+    <groups>
+    </groups>
+    <test started-at="2026-10-29T14:22:31 IST" name="Default test" finished-at="2026-10-29T14:22:33 IST" duration-ms="1797">
+      <class name="com.Practiece.demo">
+        <test-method signature="getData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Practiece.demo@47eaca72]" started-at="2026-10-29T14:22:33 IST" name="getData" data-provider="RegisterDetails" finished-at="2026-10-29T14:22:33 IST" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kiro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saki]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kiro12]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SakiKiro539]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Practiece.demo@47eaca72]" started-at="2026-10-29T14:22:33 IST" name="getData" data-provider="RegisterDetails" finished-at="2026-10-29T14:22:33 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hoshi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NanaShi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Nana768]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Practiece.demo@47eaca72]" started-at="2026-10-29T14:22:33 IST" name="getData" data-provider="RegisterDetails" finished-at="2026-10-29T14:22:33 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hikiro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SaShi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hikiro]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SaShi876]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method signature="getData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Practiece.demo@47eaca72]" started-at="2026-10-29T14:22:33 IST" name="getData" data-provider="RegisterDetails" finished-at="2026-10-29T14:22:33 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wolo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kino]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[KinoWolo34]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Wolo78]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- com.Practiece.demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
